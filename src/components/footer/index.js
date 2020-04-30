@@ -4,7 +4,7 @@ import "./style.css";
 function Footer() {
   return (
     <footer className="text-center fixed-bottom">
-        <p className="copywright">Copyright @2020</p>
+        <p className="copyright">Copyright @2020</p>
     </footer>
   );
 }

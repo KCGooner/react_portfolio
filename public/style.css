@@ -4,3 +4,19 @@ body {
     font-family: Arial, Helvica Neue, Helvetica, sans-serif;
     background-image: url("./images/herringbone.png");
 }
+.list-group-item {
+    float: left;
+}
+.container1 {
+    border-radius: 12px;
+    overflow: auto;
+    margin: auto;
+    padding: 20px;
+    width: 800px;
+}
+.container {
+    border-radius: 12px;
+}
+i {
+    padding: 5px;
+}
