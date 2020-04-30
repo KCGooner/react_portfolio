@@ -1,0 +1,34 @@
+p {
+    color: #777777;
+}
+.content {
+  color: lightblue;
+  font-size: 1.25em;
+  background-color: white;
+  border: 1px solid black;
+}
+a {
+  text-decoration: none;
+  text-decoration-line: none;
+}
+.name {
+  color: white;
+  background-color: lightblue;
+  
+}
+nav {
+  font-size: larger;
+}
+header {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  background-color: #ffffff;
+}
+.header-container {
+  background-color: white;
+}
+.nav-row {
+  background-color: white;
+}
+#contentHeader {
+  border-bottom: 2px solid #777777;
+}
