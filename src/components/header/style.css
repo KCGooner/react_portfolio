@@ -2,7 +2,7 @@ p {
     color: #777777;
 }
 .content {
-  color: lightblue;
+  color: #72A0C1;
   font-size: 1.25em;
   background-color: white;
   border: 1px solid black;
@@ -13,21 +13,21 @@ a {
 }
 .name {
   color: white;
-  background-color: lightblue;
+  background-color: #72A0C1;
   
 }
 nav {
   font-size: larger;
 }
 header {
-  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-family: 'Roboto', sans-serif;
   background-color: #ffffff;
 }
 .header-container {
-  background-color: white;
+  background-color: lightgray;
 }
 .nav-row {
-  background-color: white;
+  background-color: lightgray;
 }
 #contentHeader {
   border-bottom: 2px solid #777777;

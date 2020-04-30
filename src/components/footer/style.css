@@ -1,7 +1,9 @@
 footer {
-    background-color: lightgrey;
-    border-top: 8px solid lightskyblue;
+    background-color: lightgray;
+    border-top: 8px solid #72A0C1;
+    font-family: 'Roboto', sans-serif;
 }
 .copyright {
     vertical-align: bottom;
+    font-family: 'Roboto', sans-serif;
 }

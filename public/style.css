@@ -1,22 +1,51 @@
 body {
     height: 2000px;
     color: #777777;
-    font-family: Arial, Helvica Neue, Helvetica, sans-serif;
-    background-image: url("./images/herringbone.png");
+    font-family: 'Roboto', sans-serif;
+    background-image: url("./images/funky-lines.png");
+    overflow: auto;
 }
 .list-group-item {
     float: left;
 }
 .container1 {
     border-radius: 12px;
-    overflow: auto;
     margin: auto;
     padding: 20px;
-    width: 800px;
+    width: 700px;
 }
 .container {
     border-radius: 12px;
+    margin: auto;
 }
 i {
     padding: 5px;
+    color: #72A0C1;
+}
+.headshot {
+    height:400px;
+    width: 400px;
+    padding: 5px;
+}
+h5 {
+    color: #72A0C1;
+}
+span {
+    color: #72A0C1;
+    
+}
+a {
+    color: #72A0C1;
+}
+.card {
+    border-radius: 12px;
+    padding: 5px;
+}
+#cardborder {
+    padding: 20px;
+}
+#thumbnail {
+    height: 200px;
+    width: 200px;
+    border: 2px black solid;
 }
