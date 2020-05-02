@@ -1,10 +1,15 @@
 body {
-    height: 2000px;
+    height: 1500px;
     color: #777777;
     font-family: 'Roboto', sans-serif;
     background-image: url("./assets/images/funky-lines.png");
     overflow: auto;
 }
+.noscroll {
+    overflow-y: hidden;
+    overflow-x: hidden;
+}
+
 .list-group-item {
     float: left;
 }
@@ -13,6 +18,7 @@ body {
     margin: auto;
     padding: 20px;
     width: 700px;
+    overflow-y: hidden;
 }
 .container {
     border-radius: 12px;
@@ -40,6 +46,7 @@ a {
 .card {
     border-radius: 12px;
     padding: 5px;
+    text-align: -webkit-center;
 }
 #cardborder {
     padding: 20px;

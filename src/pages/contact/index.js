@@ -3,7 +3,7 @@ import React from "react";
 function Contact() {
     return (
         <div>
-            <div className="container1 content mt-4">
+            <div className="container1 content mt-4 noscroll">
                 <div className="row mt-2">
                     <div className="col-md-12">
                         <div id="contentHeader">

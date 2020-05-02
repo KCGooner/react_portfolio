@@ -4,7 +4,7 @@ import Profile from "./me.jpg"
 function About() {
     return (
         <div>
-            <div className="container content mt-4">
+            <div className="container content mt-4 noscroll">
                 <div className="row mt-2">
                     <div className="col-md-12">
                         <div id="header">
