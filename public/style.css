@@ -2,7 +2,7 @@ body {
     height: 2000px;
     color: #777777;
     font-family: 'Roboto', sans-serif;
-    background-image: url("./images/funky-lines.png");
+    background-image: url("./assets/images/funky-lines.png");
     overflow: auto;
 }
 .list-group-item {
