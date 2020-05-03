@@ -3,13 +3,7 @@ body {
     color: #777777;
     font-family: 'Roboto', sans-serif;
     background-image: url("./assets/images/funky-lines.png");
-    overflow: auto;
 }
-.noscroll {
-    overflow-y: hidden;
-    overflow-x: hidden;
-}
-
 .list-group-item {
     float: left;
 }

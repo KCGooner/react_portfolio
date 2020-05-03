@@ -23,9 +23,9 @@ function Contact() {
                         </a>
                     </li>
                     <li className="list-group-item contactlink">
-                        <a href="https://docs.google.com/document/d/1Sc7czBX-h64IpT53sziLHSx1SGIe_LPyJC8gDSVmrK0/edit?usp=sharing">
+                        <a href="https://docs.google.com/document/d/1xN8Ce2Sgz3sdjkfMWC86a9nkt23bgNANzjCdrxigi6k/edit">
                             <i class="far fa-file"></i>
-                            <span>Resume PDF</span>
+                            <span>Resume</span>
                         </a>
                     </li>
                     <li className="list-group-item contactlink">
