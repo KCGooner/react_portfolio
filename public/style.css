@@ -18,7 +18,6 @@ body {
     margin: auto;
     padding: 20px;
     width: 700px;
-    overflow-y: hidden;
 }
 .container {
     border-radius: 12px;
@@ -55,7 +54,4 @@ a {
     height: 200px;
     width: 200px;
     border: 2px black solid;
-}
-h1 {
-    
 }
