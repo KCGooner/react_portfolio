@@ -23,7 +23,7 @@ function Contact() {
                         </a>
                     </li>
                     <li className="list-group-item contactlink">
-                        <a href="https://docs.google.com/document/d/1xN8Ce2Sgz3sdjkfMWC86a9nkt23bgNANzjCdrxigi6k/edit">
+                        <a href="https://drive.google.com/file/d/1cWtdYehCWVmFtbTtIcQPOM5bm20q66II/view?usp=sharing">
                             <i class="far fa-file"></i>
                             <span>Resume</span>
                         </a>

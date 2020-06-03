@@ -37,7 +37,7 @@ function About() {
                                     React
                             </li>
                                 <li>
-                                    MongoDB
+                                    jQuery
                             </li>
                             </ul>
                         </div>
