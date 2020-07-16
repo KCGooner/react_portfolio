@@ -22,9 +22,10 @@ i {
     color: #72A0C1;
 }
 .headshot {
-    height:400px;
-    width: 400px;
     padding: 5px;
+    display: block;
+    max-width: 100%;
+    height: auto;
 }
 h5 {
     color: #72A0C1;
