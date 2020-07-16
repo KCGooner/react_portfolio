@@ -6,6 +6,7 @@ function Project(props) {
             <div className="card mt-1" id="cardborder">
                 <img src={props.imgSrc} alt={props.Title} id="thumbnail"/>
                 <div className="card-body">
+                    <p>{props.Title}</p>
                     <p className="card-text">{props.description}</p>
                     <a href={props.appLink} className="card-link">Application</a>
                     <a href={props.repoLink} className="card-link">GitHub Repo</a>
