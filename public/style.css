@@ -48,6 +48,7 @@ a {
     height: 200px;
     width: 200px;
     border: 2px black solid;
+    align-self: center;
 }
 h3 {
     color: #72A0C1;
